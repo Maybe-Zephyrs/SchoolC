@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vscode\\SchoolC\\S3\\t3_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64E440FE-1A51-415C-B161-AC8245D7A5CC}|t3_1.vcxproj|D:\\Vscode\\SchoolC\\S3\\t3_1\\Exp3_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64E440FE-1A51-415C-B161-AC8245D7A5CC}|t3_1.vcxproj|solutionrelative:Exp3_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exp3_3.cpp",
+              "DocumentMoniker": "D:\\Vscode\\SchoolC\\S3\\t3_1\\Exp3_3.cpp",
+              "RelativeDocumentMoniker": "Exp3_3.cpp",
+              "ToolTip": "D:\\Vscode\\SchoolC\\S3\\t3_1\\Exp3_3.cpp",
+              "RelativeToolTip": "Exp3_3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-26T08:35:40.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
