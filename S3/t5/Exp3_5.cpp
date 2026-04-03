@@ -1,13 +1,13 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 
 int main()
 {
     char ch, cipher;
 
-    printf("������һ��Ӣ����ĸ��");
+    printf("请输入一个英文字母：");
     scanf_s("%c", &ch);
     cipher = ch + 4;
-    printf("%c��������%c��ASCIIΪ%d\n", ch, cipher, cipher);
+    printf("%c的密文是%c，ASCII为%d\n", ch, cipher, cipher);
 
     return 0;
 }
