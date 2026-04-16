@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
     int a;
@@ -8,4 +8,3 @@ int main()
         printf("%d是闰年\n", a);
     else
         printf("%d不是闰年\n", a);
-}
