@@ -16,8 +16,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Vscode/SchoolC/S9/t2",
-      "program": "d:/Vscode/SchoolC/S9/t2/build/Debug/outDebug",
+      "cwd": "d:/Vscode/SchoolC/S10/t6",
+      "program": "d:/Vscode/SchoolC/S10/t6/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
